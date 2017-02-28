@@ -1,0 +1,29 @@
+{
+  "name": "renaissance-underscore-template",
+  "version": "0.1.0",
+  "description": "renaissance adapter to use underscore templates",
+  "main": "underscoreTemplate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frncsdrk/renaissance-underscore-template.git"
+  },
+  "keywords": [
+    "renaissance",
+    "underscore",
+    "template"
+  ],
+  "author": "frncsdrk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frncsdrk/renaissance-underscore-template/issues"
+  },
+  "homepage": "https://github.com/frncsdrk/renaissance-underscore-template#readme",
+  "dependencies": {
+    "renaissance": "^0.2.1",
+    "requirejs": "^2.3.3",
+    "requirejs-text": "^2.0.15"
+  }
+}

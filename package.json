@@ -25,5 +25,9 @@
     "renaissance": "^0.2.1",
     "requirejs": "^2.3.3",
     "requirejs-text": "^2.0.15"
+  },
+  "devDependencies": {
+    "renaissance-test": "^0.1.0",
+    "renaissance-test-html-reporter": "^0.1.2"
   }
 }

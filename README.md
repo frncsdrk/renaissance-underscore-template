@@ -16,6 +16,14 @@ renaissance adapter to use underscore templates
 
 create a template
 
+## Contributing
+
+See [CONTRIBUTING](https://github.com/frncsdrk/renaissance-underscore-template/blob/master/CONTRIBUTING.md)
+
+## Credits
+
+See [CREDITS](https://github.com/frncsdrk/renaissance-underscore-template/blob/master/CREDITS)
+
 ## License
 
 [MIT](https://github.com/frncsdrk/renaissance-underscore-template/blob/master/LICENSE) (c) 2017 - 2021 frncsdrk and contributors

@@ -15,3 +15,7 @@ renaissance adapter to use underscore templates
 ### adapter.tmpl({string} text, {object} data)
 
 create a template
+
+## License
+
+[MIT](https://github.com/frncsdrk/renaissance-underscore-template/blob/master/LICENSE) (c) 2017 - 2021 frncsdrk and contributors

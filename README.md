@@ -1,5 +1,7 @@
 # renaissance-underscore-template
 
+[![Test Status](https://github.com/frncsdrk/renaissance-underscore-template/workflows/test/badge.svg?branch)](https://github.com/frncsdrk/renaissance-underscore-template/actions)
+
 renaissance adapter to use underscore templates
 
 ## Usage

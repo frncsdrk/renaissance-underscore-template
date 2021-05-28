@@ -6,15 +6,20 @@ renaissance adapter to use underscore templates
 
 ## Usage
 
-- include `underscoreTemplate.js` in your paths
-- load it in your page component
-- call the include
+```js
+const { r } = require('renaissance')
+const UnderscoreTemplateAdapter = require('renaissance-underscore-template')
+const adapter = r.registerAdapter('underscoreTemplate', UnderscoreTemplateAdapter)
+
+adapter.tmpl('foo', 'bar');
+console.log(lsa.get('foo'));
+```
 
 ## API
 
 ### adapter.tmpl({string} text, {object} data)
 
-create a template
+Create a template
 
 ## Contributing
 

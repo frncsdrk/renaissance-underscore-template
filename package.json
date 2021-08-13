@@ -29,8 +29,8 @@
   "devDependencies": {
     "coffeescript": "^2.5.1",
     "nyc": "^15.1.0",
-    "renaissance": "^0.6.13",
+    "renaissance": "^0.6.16",
     "tap-spec": "^5.0.0",
-    "tape": "^5.2.2"
+    "tape": "^5.3.1"
   }
 }

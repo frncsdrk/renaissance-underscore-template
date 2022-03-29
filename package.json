@@ -30,7 +30,7 @@
     "@randomgoods/tap-spec": "^5.0.1",
     "coffeescript": "^2.6.1",
     "nyc": "^15.1.0",
-    "renaissance": "^0.6.16",
-    "tape": "^5.3.1"
+    "renaissance": "^0.6.17",
+    "tape": "^5.5.2"
   }
 }
